@@ -1,0 +1,39 @@
+{
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
+	"draw_white_space": "all",
+	"find_selected_text": true,
+	"fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"_build",
+		"dist",
+		"build",
+		"site"
+	],
+	"font_face": "Source Code Pro",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 13.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"xmllint"
+	],
+	"match_brackets": false,
+	"rulers":
+	[
+		72,
+		79
+	],
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
